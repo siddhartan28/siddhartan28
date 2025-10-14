@@ -9,6 +9,6 @@ My journey spans **Skilled in SQL, Python, PostgreSQL, AWS, Linux, Tableau, Powe
 - **Other Skills:** Data Cleaning, EDA, Dashboarding, Storytelling
 
 ## 📫 Connect with Me
-- 📧 [tisidd.n@gmail.com]([tisidd.n@gmail.com](https://mail.google.com/mail/u/2/?ogbl#inbox?compose=CllgCJfpsCmqWTqZnGNGzpbnsvJZpTvnPHXCPgLGDHgVbPsdthRNSFDtQGffbjlWvnRVkvJZRjq))  
+- 📧 [E-mail]([tisidd.n@gmail.com](https://mail.google.com/mail/u/2/?ogbl#inbox?compose=CllgCJfpsCmqWTqZnGNGzpbnsvJZpTvnPHXCPgLGDHgVbPsdthRNSFDtQGffbjlWvnRVkvJZRjq))  
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddhartanmalakar2802)  
 - 🧑‍💻 [GitHub](https://github.com/siddhartan28)
