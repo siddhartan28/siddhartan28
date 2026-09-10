@@ -1,12 +1,12 @@
 ## 🧠 About Me
-I’m a Data-driven professional in business analytics, data visualization, and strategic insights.
+I’m a Data Analyst specializing in bridging the gap between raw data infrastructure and executive decision-making. I engineer end-to-end analytics pipelines, clean multi-variable datasets, and build enterprise KPI dashboards.
 
 My journey spans **Skilled in SQL, Python, PostgreSQL, AWS, Linux, Tableau, Power BI, Google Looker Studio and Excel, — solving real-world problems with analytics and visualization.**  
 
-## 🧰 Tech Stack
-- **Tools:** MS Excel, MySQL, Power BI, Tableau  
-- **Languages:** SQL, Python  
-- **Other Skills:** Data Cleaning, EDA, Dashboarding, Storytelling
+## 🧰 Core Data Architecture Stack
+- **Languages & DBs:** SQL, Python
+- **Business Intelligence Tools:** Power BI (DAX), Tableau, Google Looker Studio, Advanced Excel
+- **Core Frameworks:** ETL Pipelines, Data Validation, Exploratory Data Analysis (EDA), KPI Performance Tracking
 
 ## 📫 Connect with Me
 - 📧 [E-mail](https://mail.google.com/mail/u/2/?ogbl#inbox?compose=CllgCJfpsCmqWTqZnGNGzpbnsvJZpTvnPHXCPgLGDHgVbPsdthRNSFDtQGffbjlWvnRVkvJZRjq)
